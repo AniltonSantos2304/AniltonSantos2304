@@ -14,4 +14,3 @@
 
 Apaixonado por tecnologia, gosto enfrentar novos desafios no mundo da programação; as horas mais incríveis do meu dia são aquelas em que estou programando.<br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aniltonsantos2304&hide_progress=Compact_layout)
