@@ -2,7 +2,11 @@
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anilton-santos-ab5a77228/)
 
-![AniltonSantos2304 GitHub stats](https://github-readme-stats.vercel.app/api?username=AniltonSantos&show_icons=true&theme=dracula)
+<div>
+  <a href="https://github.com/AniltonSantos2304">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AniltonSantos2304&show_icons=true&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AniltonSantos2304&layout=compact&langs_count=16&theme=dark"/>
+</div>
 
 ### Tecnologias que eu uso no meu dia
 
