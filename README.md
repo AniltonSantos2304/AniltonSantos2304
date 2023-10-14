@@ -15,7 +15,7 @@
 <img align="center" alt="MYSQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div><br/>
 
-## Apaixonado por tecnologia, gosto enfrentar novos desafios no mundo da programação; as horas mais incríveis do meu dia são aquelas em que estou programando.
+# Apaixonado por tecnologia, gosto enfrentar novos desafios no mundo da programação; as horas mais incríveis do meu dia são aquelas em que estou programando.
 
 ![Snake animation](https://github.com/AniltonSantos2304/AniltonSantos2304/blob/output/github-contribution-grid-snake.svg)
 
