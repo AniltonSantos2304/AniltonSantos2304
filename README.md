@@ -6,6 +6,7 @@
   <a href="https://github.com/AniltonSantos2304">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AniltonSantos2304&show_icons=true&theme=dark"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AniltonSantos2304&layout=compact&langs_count=16&theme=dark"/>
+  ![Snake animation](https://github.com/AniltonSantos2304/AniltonSantos2304/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 ### Tecnologias que eu uso no meu dia
@@ -17,8 +18,6 @@
 </div><br/>
 
 ## Apaixonado por tecnologia, gosto enfrentar novos desafios no mundo da programação; as horas mais incríveis do meu dia são aquelas em que estou programando.
-
-![Snake animation](https://github.com/AniltonSantos2304/AniltonSantos2304/blob/output/github-contribution-grid-snake.svg)
 
 [![readme](https://github-readme-stats.vercel.app/api/pin/?username=AniltonSantos2304&repo=AniltonSantos2304&theme=react)](https://github.com/AniltonSantos2304/AniltonSantos2304)
 
