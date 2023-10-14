@@ -4,8 +4,8 @@
 
 <div>
   <a href="https://github.com/AniltonSantos2304">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AniltonSantos2304&show_icons=true&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AniltonSantos2304&layout=compact&langs_count=16&theme=dark"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=AniltonSantos2304&show_icons=true&theme=dark"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AniltonSantos2304&layout=compact&langs_count=16&theme=dark"/>
 
 ### Tecnologias que eu uso no meu dia
 
