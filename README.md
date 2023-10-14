@@ -1,11 +1,10 @@
 ### Olá! Eu sou o Anilton Santos 🙋🏾‍♂️
+Bem-vindo ao meu perfil! Sou estudante de Análise e Desenvolvimento de Sistemas, tenho 21 anos :) Tenho paixão por criar e aprender coisas novas. Atualmente estudando Java, Spring Boot e MySQL, estou à procura de um estágio. Obrigado pela visita, nos vemos por aí!
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anilton-santos-ab5a77228/)
+[![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anilton-santos-ab5a77228/)
+[![MICROSOFT OUTLOOK](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:aniltonsantos21@outlook.com)
 
-<div>
-  <a href="https://github.com/AniltonSantos2304">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AniltonSantos2304&show_icons=true&theme=dark"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AniltonSantos2304&layout=compact&langs_count=16&theme=dark"/>
+#
 
 ### Tecnologias que eu uso no meu dia
 
@@ -15,7 +14,12 @@
 <img align="center" alt="MYSQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div><br/>
 
-Apaixonado por tecnologia, gosto enfrentar novos desafios no mundo da programação; as horas mais incríveis do meu dia são aquelas em que estou programando.
+#
+
+<div aling="center">
+  <a href="https://github.com/AniltonSantos2304">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AniltonSantos2304&show_icons=true&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AniltonSantos2304&layout=compact&langs_count=16&theme=dark"/>
 
 </div>
 
