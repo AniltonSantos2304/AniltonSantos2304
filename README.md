@@ -17,7 +17,7 @@ Bem-vindo ao meu perfil! Sou estudante do curso Análise e Desenvolvimento de Si
 #
 <div>
   <a href="https://github.com/AniltonSantos2304/AniltonSantos2304">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AniltonSantos2304&show_icons=true&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AniltonSantos2304&layout=compact&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AniltonSantos2304&show_icons=true&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AniltonSantos2304&layout=compact&theme=dark"/>
 </div>
 
